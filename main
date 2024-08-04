@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Shop</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">Lookbook</a></li>
+                <li><a href="#">News</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="banner">
+        <h1>Spring/Summer 2024 Collection</h1>
+    </section>
+
+    <section class="products">
+        <div class="product-grid">
+            <div class="product-item"><img src="product1.jpg" alt="Product 1"></div>
+            <div class="product-item"><img src="product2.jpg" alt="Product 2"></div>
+            <div class="product-item"><img src="product3.jpg" alt="Product 3"></div>
+            <div class="product-item"><img src="product4.jpg" alt="Product 4"></div>
+            <div class="product-item"><img src="product5.jpg" alt="Product 5"></div>
+            <div class="product-item"><img src="product6.jpg" alt="Product 6"></div>
+            <!-- 添加更多產品項目 -->
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sample Shop. All rights reserved.</p>
+    </footer>
+</body> 
+</html>
